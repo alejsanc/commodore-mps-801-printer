@@ -1,6 +1,8 @@
 # Commodore MPS-801 Printer
 Commodore MPS-801 printer example programs.
 
+Usage: commodore-mps-801-printer-may-gra.sh
+
 <img src="https://media.cuadernoinformatica.com/imagenes/commodore-64c-impresora-mps-801/commodore-64c-impresora-mps-801-impresion.jpg"/>
 
 <img src="https://media.cuadernoinformatica.com/imagenes/commodore-64c-impresora-mps-801/commodore-64c-impresora-mps-801-impresion-cerca.jpg"/>
